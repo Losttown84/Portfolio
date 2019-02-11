@@ -1,0 +1,30 @@
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-size:12px;
+    border-top:10px solid;
+    border-color:dodgerblue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top:10px;
+ }
+ .container{
+     border:1px solid;
+     border-color:darkgrey;
+     color:dodgerblue;
+     margin-top:10px;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ }
+ .page{
+     border-bottom:1px solid;
+     border-color:darkgrey;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ }
+ h4{
+     color:grey;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ }
