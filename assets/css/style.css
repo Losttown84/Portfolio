@@ -12,6 +12,16 @@
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     margin-top:10px;
  }
+
+ .body {
+    margin: 0 ;
+    padding: 0 ;
+    background: url(../images/streetview.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif ;  
+  }
+ 
  .container{
      border:1px solid;
      border-color:darkgrey;
@@ -29,8 +39,14 @@
      font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
  }
  
- .mailicon{
+ .mail{
      color:black;
      width: 100px;
      height: 100px;
+ }
+
+ .github{
+     color:black;
+     width:500px;
+     height:500px;
  }
